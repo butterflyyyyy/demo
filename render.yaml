@@ -10,3 +10,4 @@ services:
     healthCheckPath: /
     autoDeploy: true
     plan: free
+    root: .
